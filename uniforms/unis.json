@@ -5370,5 +5370,22 @@
       "pa": 26,
       "pd": -18,
       "OT": 0
+    },
+    {
+      "year": 2024,
+      "week": 9,
+      "game_site": "away",
+      "day": "S",
+      "network": "CBS",
+      "uni_type": "Normal",
+      "helmets": "gold",
+      "tops": "white",
+      "bottoms": "gold",
+      "opp": "CAR",
+      "result": "L",
+      "pf": 22,
+      "pa": 23,
+      "pd": -1,
+      "OT": 0
     }
    ]
