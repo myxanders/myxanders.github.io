@@ -5387,5 +5387,22 @@
       "pa": 23,
       "pd": -1,
       "OT": 0
+    },
+    {
+      "year": 2024,
+      "week": 10,
+      "game_site": "home",
+      "day": "S",
+      "network": "FOX",
+      "uni_type": "Normal",
+      "helmets": "gold",
+      "tops": "black",
+      "bottoms": "black",
+      "opp": "ATL",
+      "result": "W",
+      "pf": 20,
+      "pa": 17,
+      "pd": 3,
+      "OT": 0
     }
    ]
