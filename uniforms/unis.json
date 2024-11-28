@@ -5404,5 +5404,22 @@
       "pa": 17,
       "pd": 3,
       "OT": 0
+    },
+    {
+      "year": 2024,
+      "week": 11,
+      "game_site": "home",
+      "day": "S",
+      "network": "FOX",
+      "uni_type": "Normal",
+      "helmets": "gold",
+      "tops": "black",
+      "bottoms": "black",
+      "opp": "CLE",
+      "result": "W",
+      "pf": 35,
+      "pa": 14,
+      "pd": 21,
+      "OT": 0
     }
    ]
